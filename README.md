@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Sejam bem-vindos ao meu Github</h1>
 
-<!--
-**beca441/beca441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>sobre mim: </h2>
+<h3>Me chamo Rebeca Vitoria, tenho 16 anos sou estudante. Faço curso técnico de sistemas aqui iremos executar tudo o que passado nas aulas de Versionamento de códigos, aula na qual nosso orientador é o Alan.<br>
 
-Here are some ideas to get you started:
+Experiência:<br>
+Cursando técnico de Desenvolvimento de sistemas.<br>
+ Jovem aprendiz profissional em Turismo<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Hobbies:<br>
+ Doramas<br>
+ Cozinhar<br>
+ Cantar<br>
+ Ir para a Igreja<br>
+ Trançar cabelo<br>
+
+ objetivos<br>
+ Melhorar minhas notas na escola ainda mais no curso de Desenvolvimento, aprender outros idiomas, ter novas experiencias na vida tanto profissional quanto pessoa.<br> 
+
+Motivação:<br>
+Ter tudo do bom e do melhor e viver para cristo<br>
+
+
+
+
